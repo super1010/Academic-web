@@ -14,8 +14,7 @@ organizations:
     url: http://cquest.sogang.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on theoretical cosmology with Gravitational Wave physics and
-Modified Gravity models for releasing $H_0$ tension.
+bio: My research focuses on theoretical cosmology with Gravitational Wave physics and Modified Gravity models for releasing H0 tension.
 
 # Interests to show in About widget
 interests:
